@@ -1,0 +1,25 @@
+.copyright-area {
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.footer-area {
+    padding-top: 25px;
+    position: relative;
+    z-index: 1;
+}
+
+.footer-area .map {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: center;
+    z-index: -1;
+    bottom: 0;
+    opacity: .7;
+}
+.bg-f7fafd {
+    background-color: #f7fafd;
+}
